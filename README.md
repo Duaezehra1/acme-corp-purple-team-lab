@@ -7,7 +7,7 @@ A self-built Active Directory + SIEM home lab, created for an independent, autho
 - [x] **Build phase** — AD domain, Domain Controller, 2 workstations, Wazuh SIEM, Sysmon logging. [Full build documentation](docs/Acme-Corp-Build-Documentation.docx)
 - [x] **Attack phase** — Kerberoasting, weak-password Domain Admin compromise, full NTDS.dit dump. [Penetration Test Report](docs/Acme-Corp-Pentest-Report.docx)
 - [x] **Detection phase** — SIEM hunt, detection gap analysis, custom Sigma/Wazuh rule. [SOC Detection & Incident Report](docs/Acme-Corp-SOC-Detection-Report.docx)
-- [ ] **Hardening & final report** — pending
+- [x] **Hardening & final report** — all pentest findings remediated, detection gap closed, every fix validated live. [Hardening & Final Report](docs/Acme-Corp-Hardening-Report.docx)
 
 ## Environment
 
